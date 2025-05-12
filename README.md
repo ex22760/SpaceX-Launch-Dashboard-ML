@@ -57,15 +57,17 @@ This project was developed as part of the IBM Data Science Professional Certific
 1. Clone the repository:
 ```bash
 git clone https://github.com/ex22760/spacex-launch-dashboard-ml.git
+```
 
 2. Install dependencies:
 ```bash
 pip install -r requirements.txt
+```
 
 3. Launch the dashboard locally:
 ```bash
 python app.py
-
+```
 ---
 
 ## Screenshots
