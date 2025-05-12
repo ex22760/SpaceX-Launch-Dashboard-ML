@@ -79,18 +79,14 @@ python app.py
 
 ## Folder Structure
 
+```bash
 ├── Datasets/               # Cleaned and raw datasets for the notebooks
-
 ├── notebooks/              # Jupyter Notebooks for Data Collection, Wrangling, EDA, ML
-
 ├── Dashboard/              # Dash app files
-
 ├── ds-capstone.pptx        # Final Presentation (Results and Analysis)
-
 ├── requirements.txt
-
 ├── README.md
-
+```
 ---
 
 ## Acknowledgements
