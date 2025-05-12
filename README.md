@@ -74,18 +74,21 @@ python app.py
 
 ![Dashboard-Overview1](https://github.com/user-attachments/assets/8a8873df-a164-43c7-98fb-db4e3cc7d259)
 ![Dashboard-Overview2](https://github.com/user-attachments/assets/690e8948-7638-4450-86dd-aaf2e74df77c)
-![image](https://github.com/user-attachments/assets/1acf9b59-c5c4-4e8b-be5f-9494aab4c8de)
-![image](https://github.com/user-attachments/assets/6bf3c4e2-50ee-4ec8-a203-c9fdf7cacec5)
 
 ---
 
 ## Folder Structure
 
 ├── Datasets/               # Cleaned and raw datasets for the notebooks
+
 ├── notebooks/              # Jupyter Notebooks for Data Collection, Wrangling, EDA, ML
+
 ├── Dashboard/              # Dash app files
+
 ├── ds-capstone.pptx        # Final Presentation (Results and Analysis)
+
 ├── requirements.txt
+
 ├── README.md
 
 ---
@@ -101,4 +104,5 @@ Developed as part of the [IBM Data Science Certificate capstone]((https://www.co
 ## Contact
 
 **Sujin Subanthran**
+
 [LinkedIn Profile](https://www.linkedin.com/in/sujin-subanthran-b44512226/)
