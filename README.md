@@ -70,7 +70,7 @@ python app.py
 ```
 ---
 
-## Screenshots of Dashboard
+## Screenshots of Interactive Dashboard
 
 ![Dashboard-Overview1](https://github.com/user-attachments/assets/8a8873df-a164-43c7-98fb-db4e3cc7d259)
 ![Dashboard-Overview2](https://github.com/user-attachments/assets/690e8948-7638-4450-86dd-aaf2e74df77c)
